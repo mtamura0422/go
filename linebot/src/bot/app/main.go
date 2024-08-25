@@ -4,7 +4,7 @@ import (
 
 	"net/http"
 	"github.com/gin-gonic/gin"
-	"github.com/tamura.m/bot/controllers"
+	"bot/controllers"
 	"github.com/BurntSushi/toml"
 	"google.golang.org/appengine"
 	"google.golang.org/appengine/log"

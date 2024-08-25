@@ -11,8 +11,8 @@ import (
 //  "google.golang.org/appengine/datastore"
   "google.golang.org/appengine/log"
   "strconv"
-  "github.com/tamura.m/bot/models/reply"
-  "github.com/tamura.m/bot/models/google"
+  "bot/models/reply"
+  "bot/models/google"
 
 )
 

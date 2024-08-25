@@ -7,7 +7,7 @@ import (
 	"github.com/line/line-bot-sdk-go/linebot"
 	"google.golang.org/appengine/log"
 	"net/http"
-	"github.com/tamura.m/bot/models/talk"
+	"bot/models/talk"
 )
 
 
